@@ -79,8 +79,8 @@ ii) To attack on router copy 'ip' of __broadcast__ i.e for example 192.168.1.255
       3. Sending DISCOVER Packets
     
     Tick/Check DoS
-* With this Discover packets i.e huge number of ARP request is generated and router will start misbehaving.
-<br>
+* With this Discover packets i.e huge number of ARP request is generated and router will start misbehaving.  
+
 ### For LAN Network
 1. In GUI
     1. Select Edit Interface
